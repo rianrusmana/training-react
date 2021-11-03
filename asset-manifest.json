@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rianrusmana/training-react.git/static/css/main.d9a69e8a.chunk.css",
+    "main.js": "/rianrusmana/training-react.git/static/js/main.4054d472.chunk.js",
+    "main.js.map": "/rianrusmana/training-react.git/static/js/main.4054d472.chunk.js.map",
+    "runtime-main.js": "/rianrusmana/training-react.git/static/js/runtime-main.82d89fb3.js",
+    "runtime-main.js.map": "/rianrusmana/training-react.git/static/js/runtime-main.82d89fb3.js.map",
+    "static/js/2.090f946e.chunk.js": "/rianrusmana/training-react.git/static/js/2.090f946e.chunk.js",
+    "static/js/2.090f946e.chunk.js.map": "/rianrusmana/training-react.git/static/js/2.090f946e.chunk.js.map",
+    "index.html": "/rianrusmana/training-react.git/index.html",
+    "static/css/main.d9a69e8a.chunk.css.map": "/rianrusmana/training-react.git/static/css/main.d9a69e8a.chunk.css.map",
+    "static/js/2.090f946e.chunk.js.LICENSE.txt": "/rianrusmana/training-react.git/static/js/2.090f946e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82d89fb3.js",
+    "static/js/2.090f946e.chunk.js",
+    "static/css/main.d9a69e8a.chunk.css",
+    "static/js/main.4054d472.chunk.js"
+  ]
+}
